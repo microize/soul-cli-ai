@@ -443,7 +443,7 @@ Soul CLI extends the original Gemini CLI with:
 - **Enhanced Tool System**: Advanced agent tools with specialized capabilities
 - **Task Management**: Built-in todo tracking for complex workflows
 - **Customizable Prompts**: Flexible system prompt configuration
-- **Extended Documentation**: Comprehensive CLAUDE.md development guide
+- **Extended Documentation**: Comprehensive development guides and examples
 - **Improved Build System**: Optimized bundling and distribution
 
 ---

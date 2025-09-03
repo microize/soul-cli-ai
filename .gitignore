@@ -53,5 +53,8 @@ packages/core/src/generated/
 .integration-tests/
 packages/vscode-ide-companion/*.vsix
 
+# Documentation files to ignore
+CLAUDE.md
+
 # GHA credentials
 gha-creds-*.json
