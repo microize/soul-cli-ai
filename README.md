@@ -172,7 +172,7 @@ Press Enter and see if Soul responds
 **6.2 Generate Project Guide**
 Type:
 ```
-Generate a SOUL.md project guide
+Generate a GEMINI.md project guide
 ```
 This creates a helpful guide for your project
 
@@ -246,7 +246,7 @@ Check out [EXAMPLES.md](./EXAMPLES.md) for comprehensive examples including:
 
 - Ground your queries with built-in [Google Search](https://ai.google.dev/gemini-api/docs/grounding) for real-time information
 - Conversation checkpointing to save and resume complex sessions
-- Custom context files (SOUL.md) to tailor behavior for your projects
+- Custom context files (GEMINI.md) to tailor behavior for your projects
 
 ### GitHub Integration
 
@@ -379,7 +379,7 @@ soul
 
 - [**Commands Reference**](./docs/cli/commands.md) - All slash commands (`/help`, `/chat`, `/mcp`, etc.)
 - [**Checkpointing**](./docs/checkpointing.md) - Save and resume conversations
-- [**Memory Management**](./docs/tools/memory.md) - Using SOUL.md context files
+- [**Memory Management**](./docs/tools/memory.md) - Using GEMINI.md context files
 - [**Token Caching**](./docs/cli/token-caching.md) - Optimize token usage
 
 ### Tools & Extensions
@@ -405,7 +405,7 @@ soul
 
 - [**Settings Reference**](./docs/cli/configuration.md) - All configuration options
 - [**Theme Customization**](./docs/cli/themes.md) - Visual customization
-- [**.soul Directory**](./docs/soul-ignore.md) - Project-specific settings
+- [**.gemini Directory**](./docs/gemini-ignore.md) - Project-specific settings
 - [**Environment Variables**](./docs/cli/configuration.md#environment-variables)
 
 ### Troubleshooting & Support
@@ -416,7 +416,7 @@ soul
 
 ### Using MCP Servers
 
-Configure MCP servers in `~/.soul/settings.json` to extend Soul CLI with custom tools:
+Configure MCP servers in `~/.gemini/settings.json` to extend Soul CLI with custom tools:
 
 ```text
 > @github List my open pull requests

@@ -435,7 +435,7 @@ soul "Generate comprehensive test suites for all files"
 ```
 
 ### 🔧 Custom Workflows
-Create `.soul/commands/` in your project:
+Create `.gemini/commands/` in your project:
 
 **deploy.toml**
 ```toml
