@@ -1,6 +1,6 @@
 {
   "name": "@nightskyai/soul-cli-ai",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "node": ">=20.0.0"
   },
@@ -12,6 +12,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/microize/soul-cli-ai.git"
+  },
+  "homepage": "https://github.com/microize/soul-cli-ai#readme",
+  "bugs": {
+    "url": "https://github.com/microize/soul-cli-ai/issues"
   },
   "config": {
     "sandboxImageUri": "us-docker.pkg.dev/gemini-code-dev/gemini-cli/sandbox:0.2.2"
