@@ -218,17 +218,17 @@ Once everything is working:
 
 **Remember:** Always use the Ubuntu window (black terminal) to run Soul CLI, not the regular Windows Command Prompt.
 
-## 📚 Examples & Use Cases
+## Examples & Use Cases
 
 Check out [EXAMPLES.md](./EXAMPLES.md) for comprehensive examples including:
-- 🎮 3D Game Development (Unity, Three.js, Godot)
-- 🏗️ Full-Stack Web Application Planning
-- 📸 Multimodal Applications (Image/Video processing)
-- 🚀 DevOps & CI/CD Automation
-- 📊 Data Analysis & ML Deployment
+- 3D Game Development (Unity, Three.js, Godot)
+- Full-Stack Web Application Planning
+- Multimodal Applications (Image/Video processing)
+- DevOps & CI/CD Automation
+- Data Analysis & ML Deployment
 - And much more!
 
-## 📋 Key Features
+## Key Features
 
 ### Code Understanding & Generation
 
@@ -263,7 +263,7 @@ Choose the authentication method that best fits your needs:
 
 ### Option 1: OAuth login (Using your Google Account)
 
-**✨ Best for:** Individual developers as well as anyone who has a Gemini Code Assist License. (see [quota limits and terms of service](https://cloud.google.com/gemini/docs/quotas) for details)
+**Best for:** Individual developers as well as anyone who has a Gemini Code Assist License. (see [quota limits and terms of service](https://cloud.google.com/gemini/docs/quotas) for details)
 
 **Benefits:**
 
@@ -288,7 +288,7 @@ soul
 
 ### Option 2: Gemini API Key
 
-**✨ Best for:** Developers who need specific model control or paid tier access
+**Best for:** Developers who need specific model control or paid tier access
 
 **Benefits:**
 
@@ -304,7 +304,7 @@ soul
 
 ### Option 3: Vertex AI
 
-**✨ Best for:** Enterprise teams and production workloads
+**Best for:** Enterprise teams and production workloads
 
 **Benefits:**
 
@@ -321,7 +321,7 @@ soul
 
 For Google Workspace accounts and other authentication methods, see the [authentication guide](./docs/cli/authentication.md).
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Basic Usage
 
@@ -430,13 +430,13 @@ See the [MCP Server Integration guide](./docs/tools/mcp-server.md) for setup ins
 
 See the [Uninstall Guide](docs/Uninstall.md) for removal instructions.
 
-## 📄 Legal
+## Legal
 
 - **License**: [Apache License 2.0](LICENSE)
 - **Terms of Service**: [Terms & Privacy](./docs/tos-privacy.md)
 - **Security**: [Security Policy](SECURITY.md)
 
-## 🌟 What's New in Soul CLI
+## What's New in Soul CLI
 
 Soul CLI extends the original Gemini CLI with:
 
@@ -449,7 +449,7 @@ Soul CLI extends the original Gemini CLI with:
 ---
 
 <p align="center">
-  Built with ❤️ by Nightsky Labs.ai, based on Google's Gemini CLI
+  Built by Nightsky Labs.ai, based on Google's Gemini CLI
 </p>
 <p align="center">
   Special thanks to the Google Gemini team and the open source community
