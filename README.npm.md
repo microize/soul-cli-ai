@@ -1,4 +1,8 @@
+![Soul CLI](https://raw.githubusercontent.com/microize/soul-cli-ai/main/assets/cover.png)
+
 # Soul CLI
+
+**Give your ideas a soul: AI code agent**
 
 Soul CLI is an enhanced AI agent built on Google's Gemini CLI foundation. It brings the power of Gemini directly into your terminal with additional features and customizations for advanced development workflows.
 
