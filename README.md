@@ -218,6 +218,16 @@ Once everything is working:
 
 **Remember:** Always use the Ubuntu window (black terminal) to run Soul CLI, not the regular Windows Command Prompt.
 
+## 📚 Examples & Use Cases
+
+Check out [EXAMPLES.md](./EXAMPLES.md) for comprehensive examples including:
+- 🎮 3D Game Development (Unity, Three.js, Godot)
+- 🏗️ Full-Stack Web Application Planning
+- 📸 Multimodal Applications (Image/Video processing)
+- 🚀 DevOps & CI/CD Automation
+- 📊 Data Analysis & ML Deployment
+- And much more!
+
 ## 📋 Key Features
 
 ### Code Understanding & Generation
